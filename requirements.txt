@@ -3,11 +3,8 @@ python-dotenv
 langchain
 Flask
 pypdf
-chromadb
 faiss-cpu
 langchain_google_genai
 langchain_community
-fastapi
-pydantic
-uvicorn
 requests
+Werkzeug
